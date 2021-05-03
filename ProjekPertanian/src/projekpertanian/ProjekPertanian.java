@@ -17,6 +17,7 @@ public class ProjekPertanian {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Uji Coba");
+        System.out.println("Coba 1");
     }
     
 }
